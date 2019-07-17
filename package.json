@@ -1,0 +1,28 @@
+{
+  "name": "react-native-feather1s",
+  "version": "0.0.2",
+  "description": "customized feather icons",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sinodko/react-native-feathers.git"
+  },
+  "author": "Sebastian Trebunak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinodko/react-native-feathers/issues"
+  },
+  "homepage": "https://github.com/sinodko/react-native-feathers#readme",
+  "rnpm": {
+    "assets": [
+      "Fonts"
+    ]
+  },
+  "peerDependencies": {
+    "react-native": "^0.60.3",
+    "react-native-vector-icons": "^6.6.0"
+  }
+}
