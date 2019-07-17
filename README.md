@@ -48,3 +48,9 @@ And use component where you need it:
 # Others
 
 You can find source files of this icon font at https://github.com/sinodko/feather1s. Feel free to copy and use it. It would be great if you would like to contribute. Feel free to raise a Pull Request!
+
+# License
+
+This project is licenced under the MIT License.
+
+Feather icons are copyright under MIT.
