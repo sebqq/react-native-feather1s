@@ -1,6 +1,6 @@
 {
   "name": "react-native-feather1s",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "customized feather icons",
   "main": "./src/index.js",
   "scripts": {
@@ -15,6 +15,24 @@
   "bugs": {
     "url": "https://github.com/sinodko/react-native-feathers/issues"
   },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "mobile",
+    "ios",
+    "android",
+    "osx",
+    "ui",
+    "feathers",
+    "feather",
+    "icon",
+    "icons",
+    "vector",
+    "font",
+    "ttf"
+  ],
   "homepage": "https://github.com/sinodko/react-native-feathers#readme",
   "rnpm": {
     "assets": [
