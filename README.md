@@ -1,6 +1,8 @@
-# About Package
+Firts of all I would like to say HUGE thank you to **Cole Bemis**, who created in my opinion the most beautiful icon package [Feather icons](https://feathericons.com/) and to **Joel Arvidsson** for his [react-native-vector-icon](https://github.com/oblador/react-native-vector-icons)!
 
-This package provides Feather icons with stroke-width set to 1 instead of it's default value 2 (in react-native-vector-icons package).
+# About this package
+
+_react-native-feather1s_ provides Feather icons with stroke-width set to 1 instead of it's default value 2 (in react-native-vector-icons package). Most of [original feather icons](https://feathericons.com/) are already converted and are ready to be used!
 
 **react-native-feathers** uses _react-native-vector-icons_ (https://github.com/oblador/react-native-vector-icons) as peer dependency so it's up to you to install react-native-vector-icons by yourself. For installation instructions see https://github.com/oblador/react-native-vector-icons#installation
 
@@ -51,6 +53,8 @@ Default Feather icons      |  Our thin Feather icons
 The package should be ready to use now!
 
 # Usage
+
+Find an icon that you would like to use at [feathericons](https://feathericons.com/) (when you find an icon which isn't converted yet and cannot be used with these package please, [create a new issue](https://github.com/sinodko/react-native-feather1s/issues/new)).
 
 Simply import Icon from this package:
 
