@@ -78,7 +78,7 @@ You can also use origin Feather icons from _react-native-vector-icons_ if you se
 
 #### Properties:
 
-Props      |                                          Description                                | Default
+Prop/s     |                                          Description                                | Default
 :---------:|:-------------------------------------------------------------------------------------:|:---------------------:
 thin  |  If property is set to true (default), you're using icons from this package. Otherwise, you will use origin Feather Icons!   | true
 other props | All properties from react-native-vector-icon package. You can find them on [this link](https://github.com/oblador/react-native-vector-icons#icon-component) | props
