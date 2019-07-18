@@ -1,6 +1,6 @@
 {
   "name": "react-native-feather1s",
-  "version": "0.0.3-beta.1",
+  "version": "0.0.3-beta.2",
   "description": "customized feather icons",
   "main": "./src/index.js",
   "scripts": {
