@@ -5,22 +5,22 @@ This package provides Feather icons with stroke-width set to 1 instead of it's d
 **react-native-feathers** uses _react-native-vector-icons_ (https://github.com/oblador/react-native-vector-icons) as peer dependency so it's up to you to install react-native-vector-icons by yourself. For installation instructions see https://github.com/oblador/react-native-vector-icons#installation
 
 
-## What this package delivers?
+### What this package delivers?
 
 **Note: Following picture does not represent all the icons that are available in this package. In fact, there is over 240 converted feather icons available at this time and I will try to do my best to convert all the icons from original Icon pack. If you find some icons are missing please, open new issue and let me know or feel free to raise a pull reuqest!**
 
-Default Feather icons      |  Our thin Feather icons
+react-native-vector-icon      |  react-native-feather1s
 :-------------------------:|:------------------------------------------:
 ![](https://user-images.githubusercontent.com/33039909/61454958-9567ae80-a962-11e9-89a8-8d26cfbc4e1b.png)  |  ![](https://user-images.githubusercontent.com/33039909/61454956-94cf1800-a962-11e9-88f6-0236d6095602.png)
 
-## Real life example
+### Real life example
 
-- Using react-navigation bottom tab navigation:
+Using react-navigation bottom tab navigation:
 
 
 Default Feather icons      |  Our thin Feather icons
 :-------------------------:|:------------------------------------------:
-![](https://user-images.githubusercontent.com/33039909/61453654-03aa7200-a95f-11e9-9f25-bd47f185c3e6.png)  |  ![](https://user-images.githubusercontent.com/33039909/61453658-05743580-a95f-11e9-8a2d-ea903c1ec957.png)
+![](https://user-images.githubusercontent.com/33039909/61456985-ab2ba280-a967-11e9-8d93-ec0cd996f899.png)  |  ![](https://user-images.githubusercontent.com/33039909/61456986-ac5ccf80-a967-11e9-9a78-5c8cd35f76b1.png)
 
 
 
