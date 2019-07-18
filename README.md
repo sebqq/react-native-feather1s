@@ -23,6 +23,7 @@ Default Feather icons      |  Our thin Feather icons
 ![](https://user-images.githubusercontent.com/33039909/61453654-03aa7200-a95f-11e9-9f25-bd47f185c3e6.png)  |  ![](https://user-images.githubusercontent.com/33039909/61453658-05743580-a95f-11e9-8a2d-ea903c1ec957.png)
 
 
+
 # Installation
 
 1. Install package via:
@@ -74,6 +75,14 @@ You can also use origin Feather icons from _react-native-vector-icons_ if you se
   thin={false}
 />
 ```
+
+#### Properties:
+
+Props      |                                          Description                                | Default
+:---------:|:-------------------------------------------------------------------------------------:|:---------------------:
+thin  |  If property is set to true (default), you're using icons from this package. Otherwise, you will use origin Feather Icons!   | true
+other props | All properties from react-native-vector-icon package. You can find them on [this link](https://github.com/oblador/react-native-vector-icons#icon-component) | props
+
 
 # Others
 
