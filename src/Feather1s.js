@@ -1,4 +1,4 @@
-import { createIconSetFromIcoMoon } from "react-native-vector-icons";
-import config from "./config.json";
+import { createIconSetFromFontello } from "react-native-vector-icons";
+import fontelloConfig from "./fontelloConfig.json";
 
-export default createIconSetFromIcoMoon(config);
+export default createIconSetFromFontello(fontelloConfig);

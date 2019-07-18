@@ -25,7 +25,7 @@ This package provides Feather icons with stroke-width set to 1 instead of it's d
    for react-native >= 0.60 you will maybe need to use npx command:
 
    ```npm
-   react-native link react-native-feather1s
+   npx react-native link react-native-feather1s
    ```
 
 The package should be ready to use now!
