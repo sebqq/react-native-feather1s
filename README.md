@@ -1,26 +1,33 @@
+# About Package
+
+This package provides Feather icons with stroke-width set to 1 instead of it's default value 2 (in react-native-vector-icons package).
+
+**react-native-feathers** uses *react-native-vector-icons* (https://github.com/oblador/react-native-vector-icons) as peer dependency so it's up to you to install react-native-vector-icons by yourself. For installation instructions see https://github.com/oblador/react-native-vector-icons#installation
+
+
 # Installation
 
-1. Install package via
+1. Install package via:
 
-```npm
-yarn add react-native-feather1s
+   ```npm
+   yarn add react-native-feather1s
 
-or
+   or
 
-npm install react-native-feather1s
-```
+   npm install react-native-feather1s
+   ```
 
 2. Link new icon font into your project using command:
 
-```npm
-react-native link react-native-feather1s
-```
+    ```npm
+    react-native link react-native-feather1s
+    ```
 
-for react-native >= 0.60 you will maybe need to use npx command:
+    for react-native >= 0.60 you will maybe need to use npx command:
 
-```npm
-react-native link react-native-feather1s
-```
+    ```npm
+    react-native link react-native-feather1s
+    ```
 
 The package should be ready to use now!
 
@@ -41,3 +48,9 @@ And use component where you need it:
 # Others
 
 You can find source files of this icon font at https://github.com/sinodko/feather1s. Feel free to copy and use it. It would be great if you would like to contribute. Feel free to raise a Pull Request!
+
+# License
+
+This project is licenced under the MIT License.
+
+Feather icons are copyright under MIT.
