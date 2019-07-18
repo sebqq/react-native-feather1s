@@ -20,7 +20,7 @@ react-native-vector-icon      |  react-native-feather1s
 
 Default Feather icons      |  Our thin Feather icons
 :-------------------------:|:------------------------------------------:
-![](https://user-images.githubusercontent.com/33039909/61453654-03aa7200-a95f-11e9-9f25-bd47f185c3e6.png)  |  ![](https://user-images.githubusercontent.com/33039909/61453658-05743580-a95f-11e9-8a2d-ea903c1ec957.png)
+![](https://user-images.githubusercontent.com/33039909/61456985-ab2ba280-a967-11e9-8d93-ec0cd996f899.png)  |  ![](https://user-images.githubusercontent.com/33039909/61456986-ac5ccf80-a967-11e9-9a78-5c8cd35f76b1.png)
 
 
 
