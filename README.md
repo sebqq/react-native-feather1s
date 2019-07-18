@@ -2,8 +2,7 @@
 
 This package provides Feather icons with stroke-width set to 1 instead of it's default value 2 (in react-native-vector-icons package).
 
-**react-native-feathers** uses *react-native-vector-icons* (https://github.com/oblador/react-native-vector-icons) as peer dependency so it's up to you to install react-native-vector-icons by yourself. For installation instructions see https://github.com/oblador/react-native-vector-icons#installation
-
+**react-native-feathers** uses _react-native-vector-icons_ (https://github.com/oblador/react-native-vector-icons) as peer dependency so it's up to you to install react-native-vector-icons by yourself. For installation instructions see https://github.com/oblador/react-native-vector-icons#installation
 
 # Installation
 
@@ -19,15 +18,15 @@ This package provides Feather icons with stroke-width set to 1 instead of it's d
 
 2. Link new icon font into your project using command:
 
-    ```npm
-    react-native link react-native-feather1s
-    ```
+   ```npm
+   react-native link react-native-feather1s
+   ```
 
-    for react-native >= 0.60 you will maybe need to use npx command:
+   for react-native >= 0.60 you will maybe need to use npx command:
 
-    ```npm
-    react-native link react-native-feather1s
-    ```
+   ```npm
+   react-native link react-native-feather1s
+   ```
 
 The package should be ready to use now!
 
@@ -43,6 +42,18 @@ And use component where you need it:
 
 ```js
 <Icon name="globe" size={26} iconStyle={styles.yourStyle} color="#27AE60" />
+```
+
+You can also use origin Feather icons from _react-native-vector-icons_ if you set _thin_ prop to `false`:
+
+```js
+<Icon
+  name="globe"
+  size={26}
+  iconStyle={styles.yourStyle}
+  color="#27AE60"
+  thin={false}
+/>
 ```
 
 # Others

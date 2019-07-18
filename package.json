@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sinodko/react-native-feathers.git"
+    "url": "git+ssh://git@github.com/sinodko/react-native-feather1s.git"
   },
   "author": "Sebastian Trebunak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sinodko/react-native-feathers/issues"
+    "url": "https://github.com/sinodko/react-native-feather1s/issues"
   },
   "keywords": [
     "react",
@@ -33,7 +33,7 @@
     "font",
     "ttf"
   ],
-  "homepage": "https://github.com/sinodko/react-native-feathers#readme",
+  "homepage": "https://github.com/sinodko/react-native-feather1s#readme",
   "rnpm": {
     "assets": [
       "Fonts"
