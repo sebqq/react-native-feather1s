@@ -4,6 +4,14 @@ This package provides Feather icons with stroke-width set to 1 instead of it's d
 
 **react-native-feathers** uses _react-native-vector-icons_ (https://github.com/oblador/react-native-vector-icons) as peer dependency so it's up to you to install react-native-vector-icons by yourself. For installation instructions see https://github.com/oblador/react-native-vector-icons#installation
 
+
+## What this package delivers?
+
+Default Feather icons      |  Our thin Feather icons
+:-------------------------:|:------------------------------------------:
+![](https://user-images.githubusercontent.com/33039909/61453654-03aa7200-a95f-11e9-9f25-bd47f185c3e6.png)  |  ![](https://user-images.githubusercontent.com/33039909/61453658-05743580-a95f-11e9-8a2d-ea903c1ec957.png)
+
+
 # Installation
 
 1. Install package via:
