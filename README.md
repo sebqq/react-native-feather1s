@@ -9,6 +9,15 @@ This package provides Feather icons with stroke-width set to 1 instead of it's d
 
 Default Feather icons      |  Our thin Feather icons
 :-------------------------:|:------------------------------------------:
+![](https://user-images.githubusercontent.com/33039909/61454958-9567ae80-a962-11e9-89a8-8d26cfbc4e1b.png)  |  ![](https://user-images.githubusercontent.com/33039909/61454956-94cf1800-a962-11e9-88f6-0236d6095602.png)
+
+## Real life example
+
+- Using react-navigation bottom tab navigation:
+
+
+Default Feather icons      |  Our thin Feather icons
+:-------------------------:|:------------------------------------------:
 ![](https://user-images.githubusercontent.com/33039909/61453654-03aa7200-a95f-11e9-9f25-bd47f185c3e6.png)  |  ![](https://user-images.githubusercontent.com/33039909/61453658-05743580-a95f-11e9-8a2d-ea903c1ec957.png)
 
 
