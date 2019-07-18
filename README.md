@@ -7,6 +7,8 @@ This package provides Feather icons with stroke-width set to 1 instead of it's d
 
 ## What this package delivers?
 
+**Note: Following picture does not represent all the icons that are available in this package. In fact, there is over 240 converted feather icons available at this time and I will try to do my best to convert all the icons from original Icon pack. If you find some icons are missing please, open new issue and let me know or feel free to raise a pull reuqest!**
+
 Default Feather icons      |  Our thin Feather icons
 :-------------------------:|:------------------------------------------:
 ![](https://user-images.githubusercontent.com/33039909/61454958-9567ae80-a962-11e9-89a8-8d26cfbc4e1b.png)  |  ![](https://user-images.githubusercontent.com/33039909/61454956-94cf1800-a962-11e9-88f6-0236d6095602.png)
