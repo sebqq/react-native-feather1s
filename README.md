@@ -98,4 +98,4 @@ You can find source files of this icon font at https://github.com/sinodko/feathe
 
 This project is licenced under the MIT License.
 
-Feather icons are copyright under MIT.
+[Feather icons](https://feathericons.com/) are copyright under [MIT License](https://github.com/feathericons/feather/blob/master/LICENSE).
