@@ -3,7 +3,7 @@ First of all I would like to say HUGE thank you to **Cole Bemis**, who created i
 # About
 
 <p align="center">
-  <img alt="logo" src="https://user-images.githubusercontent.com/33039909/61481658-06c25400-a999-11e9-903c-799fdeed2a04.png">
+  <img alt="logo" width="350" height="185" src="https://user-images.githubusercontent.com/33039909/61521189-fac5a900-aa0f-11e9-9f37-ce9142bdb24c.png">
 </p>
 
 _react-native-feather1s_ provides Feather icons with stroke-width set to 1 instead of it's default value 2 (in react-native-vector-icons package). Most of [original feather icons](https://feathericons.com/) are already converted and are ready to be used!
