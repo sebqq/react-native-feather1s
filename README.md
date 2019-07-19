@@ -21,6 +21,9 @@ Following animated picture represent all the icons that are available in this pa
   <img src="https://media.giphy.com/media/ii2G5CUoaic46kBbue/giphy.gif">
 </p>
 
+
+_On following picture you can see comparision between react-native-vector-icons feather icon pack and our icon pack:_
+
 |   react-native-vector-icons feather icons      |    react-native-feather1s         |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![](https://user-images.githubusercontent.com/33039909/61454958-9567ae80-a962-11e9-89a8-8d26cfbc4e1b.png) | ![](https://user-images.githubusercontent.com/33039909/61454956-94cf1800-a962-11e9-88f6-0236d6095602.png) |
