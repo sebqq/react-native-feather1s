@@ -10,11 +10,11 @@ _react-native-feather1s_ provides Feather icons with stroke-width set to 1 inste
 
 ### What this package delivers?
 
-**Note: Following picture does not represent all the icons that are available in this package. In fact, currently there are 279 converted feather icons available and I will try to do my best to keep tracking and converting all new icons from original icon pack. If you find some icons are missing please, open new issue and let me know or feel free to raise a pull reuqest!**
-
 |                                         react-native-vector-icons                                         |                                          react-native-feather1s                                           |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![](https://user-images.githubusercontent.com/33039909/61454958-9567ae80-a962-11e9-89a8-8d26cfbc4e1b.png) | ![](https://user-images.githubusercontent.com/33039909/61454956-94cf1800-a962-11e9-88f6-0236d6095602.png) |
+
+----
 
 ### Real life example
 
@@ -23,6 +23,12 @@ Using react-navigation bottom tab navigation:
 |                                           Default Feather icons                                           |                                          Our thin Feather icons                                           |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![](https://user-images.githubusercontent.com/33039909/61456985-ab2ba280-a967-11e9-8d93-ec0cd996f899.png) | ![](https://user-images.githubusercontent.com/33039909/61456986-ac5ccf80-a967-11e9-9a78-5c8cd35f76b1.png) |
+
+----
+
+Following animated picture represent all the icons that are available in this package. Currently there is 279 converted feather icons available and I will try to do my best to keep tracking and converting all new icons from original icon pack. If you find some icons are missing please, open new issue and let me know or feel free to raise a pull reuqest!
+
+![video from example app](https://media.giphy.com/media/ii2G5CUoaic46kBbue/giphy.gif)
 
 # Installation
 
