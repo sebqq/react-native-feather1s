@@ -1,7 +1,5 @@
 First of all I would like to say HUGE thank you to **Cole Bemis**, who created in my opinion the most beautiful icon package [Feather icons](https://feathericons.com/) and to **Joel Arvidsson** for his [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)!
 
----
-
 # About
 
 <p align="center">
