@@ -26,7 +26,7 @@ _On following picture you can see comparision between react-native-vector-icons 
 
 |   react-native-vector-icons feather icons      |    react-native-feather1s         |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-| ![](https://user-images.githubusercontent.com/33039909/61454958-9567ae80-a962-11e9-89a8-8d26cfbc4e1b.png) | ![](https://user-images.githubusercontent.com/33039909/61454956-94cf1800-a962-11e9-88f6-0236d6095602.png) |
+| ![](https://user-images.githubusercontent.com/33039909/61528019-10da6600-aa1e-11e9-946f-c119eeb173e6.png) | ![](https://user-images.githubusercontent.com/33039909/61528024-120b9300-aa1e-11e9-9e71-3d2dbc0e20d5.png) |
 
 ----
 
