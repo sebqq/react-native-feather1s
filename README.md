@@ -28,7 +28,9 @@ Using react-navigation bottom tab navigation:
 
 Following animated picture represent all the icons that are available in this package. Currently there is 279 converted feather icons available and I will try to do my best to keep tracking and converting all new icons from original icon pack. If you find some icons are missing please, open new issue and let me know or feel free to raise a pull reuqest!
 
-![video from example app](https://media.giphy.com/media/ii2G5CUoaic46kBbue/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/ii2G5CUoaic46kBbue/giphy.gif">
+</p>
 
 # Installation
 
