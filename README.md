@@ -1,6 +1,8 @@
 First of all I would like to say HUGE thank you to **Cole Bemis**, who created in my opinion the most beautiful icon package [Feather icons](https://feathericons.com/) and to **Joel Arvidsson** for his [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)!
 
-![logo](https://user-images.githubusercontent.com/33039909/61481658-06c25400-a999-11e9-903c-799fdeed2a04.png)
+<p align="center">
+  <img alt="logo" src="https://user-images.githubusercontent.com/33039909/61481658-06c25400-a999-11e9-903c-799fdeed2a04.png">
+</p>
 
 # About
 
