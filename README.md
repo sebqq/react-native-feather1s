@@ -8,11 +8,20 @@ First of all I would like to say HUGE thank you to **Cole Bemis**, who created i
 
 _react-native-feather1s_ provides Feather icons with stroke-width set to 1 instead of it's default value 2 (in react-native-vector-icons package). Most of [original feather icons](https://feathericons.com/) are already converted and are ready to be used!
 
+> Current version of feather icons in react-native-vector-icons package does not contain all the images from feathericons set. **In this package you can find all the icons from feathericons set**.
+
 **react-native-feathers** uses _react-native-vector-icons_ (https://github.com/oblador/react-native-vector-icons) as peer dependency so it's up to you to install react-native-vector-icons by yourself. For installation instructions see https://github.com/oblador/react-native-vector-icons#installation
 
 ### What this package delivers?
 
-|                                         react-native-vector-icons                                         |                                          react-native-feather1s                                           |
+Following animated picture represent all the icons that are available in this package. Currently there is 279 converted feather icons available and I will try to do my best to keep tracking and converting all new icons from original icon pack. If you find some icons are missing please, open new issue and let me know or feel free to raise a pull reuqest!
+
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/33039909/61521869-77a55280-aa11-11e9-882e-a29e50a04067.png">
+  <img src="https://media.giphy.com/media/ii2G5CUoaic46kBbue/giphy.gif">
+</p>
+
+|   react-native-vector-icons feather icons      |    react-native-feather1s         |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![](https://user-images.githubusercontent.com/33039909/61454958-9567ae80-a962-11e9-89a8-8d26cfbc4e1b.png) | ![](https://user-images.githubusercontent.com/33039909/61454956-94cf1800-a962-11e9-88f6-0236d6095602.png) |
 
@@ -27,13 +36,6 @@ Using react-navigation bottom tab navigation:
 | ![](https://user-images.githubusercontent.com/33039909/61456985-ab2ba280-a967-11e9-8d93-ec0cd996f899.png) | ![](https://user-images.githubusercontent.com/33039909/61456986-ac5ccf80-a967-11e9-9a78-5c8cd35f76b1.png) |
 
 ----
-
-Following animated picture represent all the icons that are available in this package. Currently there is 279 converted feather icons available and I will try to do my best to keep tracking and converting all new icons from original icon pack. If you find some icons are missing please, open new issue and let me know or feel free to raise a pull reuqest!
-
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/33039909/61521869-77a55280-aa11-11e9-882e-a29e50a04067.png">
-  <img src="https://media.giphy.com/media/ii2G5CUoaic46kBbue/giphy.gif">
-</p>
 
 # Installation
 
