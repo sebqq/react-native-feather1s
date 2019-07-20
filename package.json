@@ -6,6 +6,12 @@
   "scripts": {
     "test": "jest"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn test",
+      "pre-push": "yarn test"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/sinodko/react-native-feather1s.git"
@@ -49,6 +55,7 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
+    "husky": "^3.0.1",
     "jest": "^23.5.0",
     "react": "^16.8.6",
     "react-native": "^0.60.4",
