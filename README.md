@@ -1,4 +1,4 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/sinodko/react-native-feather1s/pulls)
 
 First of all I would like to say HUGE thank you to **Cole Bemis**, who created in my opinion the most beautiful icon package [Feather icons](https://feathericons.com/) and to **Joel Arvidsson** for his [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)!
 
