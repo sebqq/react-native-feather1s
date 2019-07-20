@@ -4,7 +4,7 @@
   "description": "Customized feather icons with stroke-width set to 1",
   "main": "./src/index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -39,10 +39,24 @@
       "Fonts"
     ]
   },
+  "jest": {
+    "preset": "react-native",
+    "transform": {
+      "^.+\\.js$": "<rootDir>/node_modules/react-native/jest/preprocessor.js"
+    }
+  },
   "dependencies": {
     "prop-types": "^15.7.2"
   },
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "react": "^16.8.6",
+    "react-native": "^0.60.4",
+    "react-native-vector-icons": ">=6.0.0",
+    "react-test-renderer": "^16.6.0"
+  },
   "peerDependencies": {
-    "react-native-vector-icons": ">6.0.0"
+    "react-native": ">=0.50",
+    "react-native-vector-icons": ">=6.0.0"
   }
 }
