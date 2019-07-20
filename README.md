@@ -1,3 +1,5 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/pulls)
+
 First of all I would like to say HUGE thank you to **Cole Bemis**, who created in my opinion the most beautiful icon package [Feather icons](https://feathericons.com/) and to **Joel Arvidsson** for his [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)!
 
 # About
@@ -21,14 +23,13 @@ Following animated picture represent all the icons that are available in this pa
   <img src="https://media.giphy.com/media/ii2G5CUoaic46kBbue/giphy.gif">
 </p>
 
-
 _On following picture you can see comparision between react-native-vector-icons feather icon pack and our icon pack:_
 
-|   react-native-vector-icons feather icons      |    react-native-feather1s         |
+|                                  react-native-vector-icons feather icons                                  |                                          react-native-feather1s                                           |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![](https://user-images.githubusercontent.com/33039909/61528019-10da6600-aa1e-11e9-946f-c119eeb173e6.png) | ![](https://user-images.githubusercontent.com/33039909/61528024-120b9300-aa1e-11e9-9e71-3d2dbc0e20d5.png) |
 
-----
+---
 
 ### Real life example
 
@@ -38,7 +39,7 @@ Using react-navigation bottom tab navigation:
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![](https://user-images.githubusercontent.com/33039909/61456985-ab2ba280-a967-11e9-8d93-ec0cd996f899.png) | ![](https://user-images.githubusercontent.com/33039909/61456986-ac5ccf80-a967-11e9-9a78-5c8cd35f76b1.png) |
 
-----
+---
 
 # Installation
 
@@ -90,9 +91,9 @@ You can also use origin Feather icons from _react-native-vector-icons_ if you se
 
 #### Properties:
 
-|   Prop/s    |                                                                         Description                                                                         | Default |
-| :---------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: |
-|    thin     |                  If property is set to true (default), you're using icons from this package. Otherwise, you will use origin Feather Icons!                  |  true   |
+|   Prop/s    |                                                                     Description                                                                      | Default |
+| :---------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: |
+|    thin     |              If property is set to true (default), you're using icons from this package. Otherwise, you will use origin Feather Icons!               |  true   |
 | other props | All properties from react-native-vector-icons package. You can find them [here](https://github.com/oblador/react-native-vector-icons#icon-component) |  props  |
 
 # Others
