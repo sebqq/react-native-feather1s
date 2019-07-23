@@ -39,7 +39,7 @@
     "font",
     "ttf"
   ],
-  "homepage": "https://github.com/sinodko/react-native-feather1s#readme",
+  "homepage": "https://sinodko.github.io/feather1s-web/",
   "rnpm": {
     "assets": [
       "Fonts"
