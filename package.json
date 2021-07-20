@@ -59,7 +59,7 @@
     "husky": "^3.0.1",
     "jest": "^23.5.0",
     "react": "^16.8.6",
-    "react-native": "^0.60.4",
+    "react-native": "^0.62.3",
     "react-native-vector-icons": ">=6.0.0",
     "react-test-renderer": "^16.6.0"
   },
